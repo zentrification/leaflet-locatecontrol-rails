@@ -10,11 +10,11 @@ Add `leaflet-locatecontrol-rails` to your Gemfile and run `bundle install`:
 
 Include javascript assets in `app/assets/javascripts/application.js`
 
-        //= require 
+        //= require L.Control.Locate
 
 Include stylesheet assets in `app/assets/stylesheets/application.css`
 
-        *= require 
+        *= require L.Control.Locate
 
 ## Contributing
 
